@@ -1,5 +1,8 @@
 package com.example.javagit.dao;
 
+import com.example.javagit.controller.User;
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
 public class UserDao {
-    //需要mybatis的数据库访问对象
 }
