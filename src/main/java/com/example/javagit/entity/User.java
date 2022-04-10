@@ -1,4 +1,4 @@
-package com.example.javagit.controller;
+package com.example.javagit.entity;
 
 public class User {
 

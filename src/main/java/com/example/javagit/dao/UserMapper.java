@@ -1,6 +1,6 @@
 package com.example.javagit.dao;
 
-import com.example.javagit.controller.User;
+import com.example.javagit.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
